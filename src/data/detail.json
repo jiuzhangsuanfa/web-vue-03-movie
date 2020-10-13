@@ -1,0 +1,673 @@
+{
+  "rating": {
+    "max": 10,
+    "average": 9.1,
+    "details": {
+      "1": 109.0,
+      "3": 4486.0,
+      "2": 277.0,
+      "5": 55526.0,
+      "4": 29934.0
+    },
+    "stars": "45",
+    "min": 0
+  },
+  "reviews_count": 4020,
+  "videos": [
+    {
+      "source": {
+        "literal": "youku",
+        "pic": "http://img1.doubanio.com\/f\/movie\/886b26a83d18bc60de4ee1daac38145f03c88792\/pics\/movie\/video-youku.png",
+        "name": "优酷视频"
+      },
+      "sample_link": "http:\/\/v.youku.com\/v_show\/id_XNDIxODM5Nzg4NA==.html?tpa=dW5pb25faWQ9MzAwMDA4XzEwMDAwMl8wMl8wMQ&refer=esfhz_operation.xuka.xj_00003036_000000_FNZfau_19010900",
+      "video_id": "XNDIxODM5Nzg4NA==",
+      "need_pay": true
+    },
+    {
+      "source": {
+        "literal": "qq",
+        "pic": "http://img3.doubanio.com\/f\/movie\/0a74f4379607fa731489d7f34daa545df9481fa0\/pics\/movie\/video-qq.png",
+        "name": "腾讯视频"
+      },
+      "sample_link": "http:\/\/v.qq.com\/x\/cover\/eaa7qkjmlecfnp1.html?ptag=douban.movie",
+      "video_id": "eaa7qkjmlecfnp1",
+      "need_pay": true
+    },
+    {
+      "source": {
+        "literal": "iqiyi",
+        "pic": "http://img9.doubanio.com\/f\/movie\/7c9e516e02c6fe445b6559c0dd2a705e8b17d1c9\/pics\/movie\/video-iqiyi.png",
+        "name": "爱奇艺视频"
+      },
+      "sample_link": "http:\/\/www.iqiyi.com\/v_19rsfrzkj8.html?vfm=m_331_dbdy&fv=4904d94982104144a1548dd9040df241",
+      "video_id": "19rsfrzkj8",
+      "need_pay": true
+    }
+  ],
+  "wish_count": 307739,
+  "original_title": "كفرناحوم",
+  "blooper_urls": [
+    "http:\/\/vt1.doubanio.com\/202006261629\/be47b6a9a0698005ca93ce9df273e19f\/view\/movie\/M\/302460218.mp4",
+    "http:\/\/vt1.doubanio.com\/202006261629\/7dd08506cd3fda990189a00fd172d566\/view\/movie\/M\/302410129.mp4"
+  ],
+  "collect_count": 963741,
+  "images": {
+    "small": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2555295759.jpg",
+    "large": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2555295759.jpg",
+    "medium": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2555295759.jpg"
+  },
+  "douban_site": "",
+  "year": "2018",
+  "popular_comments": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "useful_count": 895,
+      "author": {
+        "uid": "1910834",
+        "avatar": "http://img9.doubanio.com\/icon\/u1910834-6.jpg",
+        "signature": "",
+        "alt": "https:\/\/www.douban.com\/people\/1910834\/",
+        "id": "1910834",
+        "name": "梅花牛"
+      },
+      "subject_id": "30170448",
+      "content": "最喜欢那个男配角，一岁的孩子约纳斯。每当有音乐响起，这孩子总要试图扭起来！",
+      "created_at": "2019-04-20 19:34:10",
+      "id": "1758955414"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "useful_count": 5079,
+      "author": {
+        "uid": "shuixia1825",
+        "avatar": "http://img3.doubanio.com\/icon\/u2673286-22.jpg",
+        "signature": "Help me,Bacchus",
+        "alt": "https:\/\/www.douban.com\/people\/shuixia1825\/",
+        "id": "2673286",
+        "name": "水怪"
+      },
+      "subject_id": "30170448",
+      "content": "在欧陆人民面前，中东这样的超级人道主义灾难本身就是泪点满满。这样的题材如果是纪录片会更具力量，但想想如此年纪的男主及孩童们居然可以“演绎”得如此逼近现实，女导演的确强大。另外强烈抄送国内逼婚逼生一族。",
+      "created_at": "2018-05-18 04:11:38",
+      "id": "1375156012"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "useful_count": 3093,
+      "author": {
+        "uid": "suewebber",
+        "avatar": "http://img3.doubanio.com\/icon\/u1148235-1.jpg",
+        "signature": "http:\/\/suewebber.blogbus.com\/",
+        "alt": "https:\/\/www.douban.com\/people\/suewebber\/",
+        "id": "1148235",
+        "name": "甦"
+      },
+      "subject_id": "30170448",
+      "content": "从一句话的简介 就直击心灵 再到120分钟完整故事 一直受到着冲击与震撼。 三个看片小伙伴 开篇就哭的稀里哗啦 结束 已经泣不成声  真的是一部还没看完就想让全世界去看的电影。那句在法院上12岁的小ZEIN的发言：我要控诉父母生下我。我想让那些无法养活孩子的父母 不要生下孩子。",
+      "created_at": "2018-05-14 21:42:32",
+      "id": "1373653919"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "useful_count": 2595,
+      "author": {
+        "uid": "64213791",
+        "avatar": "http://img9.doubanio.com\/icon\/u64213791-15.jpg",
+        "signature": "",
+        "alt": "https:\/\/www.douban.com\/people\/64213791\/",
+        "id": "64213791",
+        "name": "爆米花教主"
+      },
+      "subject_id": "30170448",
+      "content": "穷人可以生孩子，愚昧的人不要生孩子",
+      "created_at": "2019-04-06 13:36:37",
+      "id": "1733108362"
+    }
+  ],
+  "alt": "https:\/\/movie.douban.com\/subject\/30170448\/",
+  "id": "30170448",
+  "mobile_url": "https:\/\/movie.douban.com\/subject\/30170448\/mobile",
+  "photos_count": 657,
+  "pubdate": "2019-04-29",
+  "title": "何以为家",
+  "do_count": null,
+  "has_video": true,
+  "share_url": "http:\/\/m.douban.com\/movie\/subject\/30170448",
+  "seasons_count": null,
+  "languages": [
+    "阿拉伯语",
+    "阿姆哈拉语"
+  ],
+  "schedule_url": "",
+  "writers": [
+    {
+      "avatars": {
+        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355827027.11.jpg",
+        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355827027.11.jpg",
+        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355827027.11.jpg"
+      },
+      "name_en": "Nadine Labaki",
+      "name": "娜丁·拉巴基",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1275745\/",
+      "id": "1275745"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com\/f\/movie\/ca527386eb8c4e325611e22dfcb04cc116d6b423\/pics\/movie\/celebrity-default-small.png",
+        "large": "http://img3.doubanio.com\/f\/movie\/63acc16ca6309ef191f0378faf793d1096a3e606\/pics\/movie\/celebrity-default-large.png",
+        "medium": "http://img1.doubanio.com\/f\/movie\/8dd0c794499fe925ae2ae89ee30cd225750457b4\/pics\/movie\/celebrity-default-medium.png"
+      },
+      "name_en": "Jihad Hojeily",
+      "name": "吉哈德·霍加里",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1395542\/",
+      "id": "1395542"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com\/f\/movie\/ca527386eb8c4e325611e22dfcb04cc116d6b423\/pics\/movie\/celebrity-default-small.png",
+        "large": "http://img3.doubanio.com\/f\/movie\/63acc16ca6309ef191f0378faf793d1096a3e606\/pics\/movie\/celebrity-default-large.png",
+        "medium": "http://img1.doubanio.com\/f\/movie\/8dd0c794499fe925ae2ae89ee30cd225750457b4\/pics\/movie\/celebrity-default-medium.png"
+      },
+      "name_en": "Michelle Keserwany",
+      "name": "米歇尔·凯斯沃尼",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1395543\/",
+      "id": "1395543"
+    },
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551513720.25.jpg",
+        "large": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551513720.25.jpg",
+        "medium": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551513720.25.jpg"
+      },
+      "name_en": "Georges Khabbaz",
+      "name": "乔治斯·哈巴兹",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1411931\/",
+      "id": "1411931"
+    },
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551505367.46.jpg",
+        "large": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551505367.46.jpg",
+        "medium": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551505367.46.jpg"
+      },
+      "name_en": "Khaled Mouzanar",
+      "name": "哈立德·穆扎纳",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1393709\/",
+      "id": "1393709"
+    }
+  ],
+  "pubdates": [
+    "2018-05-17(戛纳电影节)",
+    "2018-09-20(黎巴嫩)",
+    "2019-04-29(中国大陆)"
+  ],
+  "website": "",
+  "tags": [
+    "人性",
+    "儿童",
+    "难民",
+    "社会",
+    "成长",
+    "家庭",
+    "黎巴嫩",
+    "剧情",
+    "人生",
+    "中东"
+  ],
+  "has_schedule": false,
+  "durations": [
+    "126分钟",
+    "117分钟(中国大陆)"
+  ],
+  "genres": [
+    "剧情"
+  ],
+  "collection": null,
+  "trailers": [
+    {
+      "medium": "http://img1.doubanio.com\/img\/trailer\/medium\/2545060207.jpg?",
+      "title": "台湾预告片 (中文字幕)",
+      "subject_id": "30170448",
+      "alt": "https:\/\/movie.douban.com\/trailer\/241855\/",
+      "small": "http://img1.doubanio.com\/img\/trailer\/small\/2545060207.jpg?",
+      "resource_url": "http:\/\/vt1.doubanio.com\/202006261629\/b15528d6dd3822429eff3ecdeed8b2ef\/view\/movie\/M\/302410855.mp4",
+      "id": "241855"
+    },
+    {
+      "medium": "http://img1.doubanio.com\/img\/trailer\/medium\/2542871477.jpg?",
+      "title": "北美预告片",
+      "subject_id": "30170448",
+      "alt": "https:\/\/movie.douban.com\/trailer\/240844\/",
+      "small": "http://img1.doubanio.com\/img\/trailer\/small\/2542871477.jpg?",
+      "resource_url": "http:\/\/vt1.doubanio.com\/202006261629\/41f3373144fc5fc8d9e4b80c954a2343\/view\/movie\/M\/302400844.mp4",
+      "id": "240844"
+    },
+    {
+      "medium": "http://img9.doubanio.com\/img\/trailer\/medium\/2541954134.jpg?",
+      "title": "预告片",
+      "subject_id": "30170448",
+      "alt": "https:\/\/movie.douban.com\/trailer\/240395\/",
+      "small": "http://img9.doubanio.com\/img\/trailer\/small\/2541954134.jpg?",
+      "resource_url": "http:\/\/vt1.doubanio.com\/202006261629\/e01cbf8e7fbfbbe0963249ed954ec33a\/view\/movie\/M\/302400395.mp4",
+      "id": "240395"
+    },
+    {
+      "medium": "http://img9.doubanio.com\/img\/trailer\/medium\/2539232775.jpg?",
+      "title": "预告片",
+      "subject_id": "30170448",
+      "alt": "https:\/\/movie.douban.com\/trailer\/238960\/",
+      "small": "http://img9.doubanio.com\/img\/trailer\/small\/2539232775.jpg?",
+      "resource_url": "http:\/\/vt1.doubanio.com\/202006261629\/7593a34538476646c01e5d4cb4129e40\/view\/movie\/M\/302380960.mp4",
+      "id": "238960"
+    }
+  ],
+  "episodes_count": null,
+  "trailer_urls": [
+    "http:\/\/vt1.doubanio.com\/202006261629\/b15528d6dd3822429eff3ecdeed8b2ef\/view\/movie\/M\/302410855.mp4",
+    "http:\/\/vt1.doubanio.com\/202006261629\/41f3373144fc5fc8d9e4b80c954a2343\/view\/movie\/M\/302400844.mp4",
+    "http:\/\/vt1.doubanio.com\/202006261629\/e01cbf8e7fbfbbe0963249ed954ec33a\/view\/movie\/M\/302400395.mp4",
+    "http:\/\/vt1.doubanio.com\/202006261629\/7593a34538476646c01e5d4cb4129e40\/view\/movie\/M\/302380960.mp4"
+  ],
+  "has_ticket": false,
+  "bloopers": [
+    {
+      "medium": "http://img3.doubanio.com\/img\/trailer\/medium\/2554621281.jpg?",
+      "title": "MV：推广曲《我从哪里来》",
+      "subject_id": "30170448",
+      "alt": "https:\/\/movie.douban.com\/trailer\/246218\/",
+      "small": "http://img3.doubanio.com\/img\/trailer\/small\/2554621281.jpg?",
+      "resource_url": "http:\/\/vt1.doubanio.com\/202006261629\/be47b6a9a0698005ca93ce9df273e19f\/view\/movie\/M\/302460218.mp4",
+      "id": "246218"
+    },
+    {
+      "medium": "http://img3.doubanio.com\/img\/trailer\/medium\/2543322303.jpg?",
+      "title": "MV",
+      "subject_id": "30170448",
+      "alt": "https:\/\/movie.douban.com\/trailer\/241129\/",
+      "small": "http://img3.doubanio.com\/img\/trailer\/small\/2543322303.jpg?",
+      "resource_url": "http:\/\/vt1.doubanio.com\/202006261629\/7dd08506cd3fda990189a00fd172d566\/view\/movie\/M\/302410129.mp4",
+      "id": "241129"
+    }
+  ],
+  "clip_urls": [],
+  "current_season": null,
+  "casts": [
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pa96FEdlJe08cel_avatar_uploaded1526709219.38.jpg",
+        "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pa96FEdlJe08cel_avatar_uploaded1526709219.38.jpg",
+        "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pa96FEdlJe08cel_avatar_uploaded1526709219.38.jpg"
+      },
+      "name_en": "Zain al-Rafeea",
+      "name": "赞恩·阿尔·拉菲亚",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1393813\/",
+      "id": "1393813"
+    },
+    {
+      "avatars": {
+        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551513231.02.jpg",
+        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551513231.02.jpg",
+        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1551513231.02.jpg"
+      },
+      "name_en": "Yordanos Shiferaw",
+      "name": "约丹诺斯·希费罗",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1411924\/",
+      "id": "1411924"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1549962696.77.jpg",
+        "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1549962696.77.jpg",
+        "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1549962696.77.jpg"
+      },
+      "name_en": "Boluwatife Treasure Bankole",
+      "name": "博鲁瓦蒂夫·特雷杰·班科尔",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1395545\/",
+      "id": "1395545"
+    },
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1559398714.94.jpg",
+        "large": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1559398714.94.jpg",
+        "medium": "http://img9.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1559398714.94.jpg"
+      },
+      "name_en": "Kawsar Al Haddad",
+      "name": "卡萨尔·艾尔·哈达德",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1411925\/",
+      "id": "1411925"
+    }
+  ],
+  "countries": [
+    "黎巴嫩",
+    "法国",
+    "美国"
+  ],
+  "mainland_pubdate": "2019-04-29",
+  "photos": [
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2554897263.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2554897263.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2554897263.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2554897263\/",
+      "id": "2554897263",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2554897263.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2549030491.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2549030491.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2549030491.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2549030491\/",
+      "id": "2549030491",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2549030491.jpg"
+    },
+    {
+      "thumb": "https://img9.doubanio.com\/view\/photo\/m\/public\/p2549559006.jpg",
+      "image": "https://img9.doubanio.com\/view\/photo\/l\/public\/p2549559006.jpg",
+      "cover": "https://img9.doubanio.com\/view\/photo\/sqs\/public\/p2549559006.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2549559006\/",
+      "id": "2549559006",
+      "icon": "https://img9.doubanio.com\/view\/photo\/s\/public\/p2549559006.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com\/view\/photo\/m\/public\/p2554897517.jpg",
+      "image": "https://img1.doubanio.com\/view\/photo\/l\/public\/p2554897517.jpg",
+      "cover": "https://img1.doubanio.com\/view\/photo\/sqs\/public\/p2554897517.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2554897517\/",
+      "id": "2554897517",
+      "icon": "https://img1.doubanio.com\/view\/photo\/s\/public\/p2554897517.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2550962180.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2550962180.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2550962180.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2550962180\/",
+      "id": "2550962180",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2550962180.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2549618832.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2549618832.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2549618832.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2549618832\/",
+      "id": "2549618832",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2549618832.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2552407281.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2552407281.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2552407281.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2552407281\/",
+      "id": "2552407281",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2552407281.jpg"
+    },
+    {
+      "thumb": "https://img9.doubanio.com\/view\/photo\/m\/public\/p2555070684.jpg",
+      "image": "https://img9.doubanio.com\/view\/photo\/l\/public\/p2555070684.jpg",
+      "cover": "https://img9.doubanio.com\/view\/photo\/sqs\/public\/p2555070684.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2555070684\/",
+      "id": "2555070684",
+      "icon": "https://img9.doubanio.com\/view\/photo\/s\/public\/p2555070684.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2555070683.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2555070683.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2555070683.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2555070683\/",
+      "id": "2555070683",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2555070683.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com\/view\/photo\/m\/public\/p2552405620.jpg",
+      "image": "https://img3.doubanio.com\/view\/photo\/l\/public\/p2552405620.jpg",
+      "cover": "https://img3.doubanio.com\/view\/photo\/sqs\/public\/p2552405620.jpg",
+      "alt": "https:\/\/movie.douban.com\/photos\/photo\/2552405620\/",
+      "id": "2552405620",
+      "icon": "https://img3.doubanio.com\/view\/photo\/s\/public\/p2552405620.jpg"
+    }
+  ],
+  "summary": "法庭上，十二岁的男孩赞恩向法官状告他的亲生父母，原因是，他们给了他生命。是什么样的经历让一个孩子做出如此不可思议的举动？故事中，赞恩的父母在无力抚养和教育的状况下依然不停生育，作为家中的长子赞恩，弱小的肩膀承担了无数生活的重压。当妹妹被强行卖给商贩为妻时，赞恩愤怒离家，之后遇到一对没有合法身份的母子，相互扶持勉强生活。然而生活并没有眷顾赞恩，重重磨难迫使他做出了令人震惊的举动……",
+  "clips": [],
+  "subtype": "movie",
+  "directors": [
+    {
+      "avatars": {
+        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355827027.11.jpg",
+        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355827027.11.jpg",
+        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355827027.11.jpg"
+      },
+      "name_en": "Nadine Labaki",
+      "name": "娜丁·拉巴基",
+      "alt": "https:\/\/movie.douban.com\/celebrity\/1275745\/",
+      "id": "1275745"
+    }
+  ],
+  "comments_count": 171686,
+  "popular_reviews": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "title": "看完这种类型的影片后，我们必须自问的三个问题",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "162682994",
+        "avatar": "http://img9.doubanio.com\/icon\/u162682994-6.jpg",
+        "signature": "自我回归",
+        "alt": "https:\/\/www.douban.com\/people\/162682994\/",
+        "id": "162682994",
+        "name": "网友小西"
+      },
+      "summary": "1 我们看这类“边缘底层视角”的影片之后究竟应该明白什么？ 2 身不由己的作恶者（影片中卖掉女儿的父母）应该受到惩罚吗？ 3 人该如何面对阶级和个人命运问题？ 在回答这些问题之前，我们先来看看影片本身。 主...",
+      "alt": "https:\/\/movie.douban.com\/review\/10016074\/",
+      "id": "10016074"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "这个清醒的小男孩，太让人心疼了",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "travelbao",
+        "avatar": "http://img9.doubanio.com\/icon\/u3681338-46.jpg",
+        "signature": "读万卷书，行万里路",
+        "alt": "https:\/\/www.douban.com\/people\/travelbao\/",
+        "id": "3681338",
+        "name": "姚璐"
+      },
+      "summary": "中国版海报上的一句宣传语非常引人注目： 我要控告我的父母，因为他们生下了我。——赞恩 黎巴嫩女导演拉巴基以她独特的视角和方式，呈现了这个发生在黎巴嫩贫民窟中的叙利亚难民的故事： 年龄不详、据说是12岁左...",
+      "alt": "https:\/\/movie.douban.com\/review\/10150945\/",
+      "id": "10150945"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "title": "《迦百农》：“你为什么要起诉父母？因为生了我。”",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "52685493",
+        "avatar": "http://img3.doubanio.com\/icon\/u52685493-10.jpg",
+        "signature": "",
+        "alt": "https:\/\/www.douban.com\/people\/52685493\/",
+        "id": "52685493",
+        "name": "格调闲人"
+      },
+      "summary": "1 “你为什么要生下我？” 我很少写影评，如果不得不写的话，要么是因为片子太好，要么是片子太烂，又或者是片子太烂被人说得太好，或者是片子太好被人说得太烂。 《迦百农》属于第一种，好到让人心疼的那种。 相...",
+      "alt": "https:\/\/movie.douban.com\/review\/10089894\/",
+      "id": "10089894"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "title": "迦百农",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "huangxiaoxie",
+        "avatar": "http://img3.doubanio.com\/icon\/u1614291-2.jpg",
+        "signature": "芍药栏低春是梦，华清人去草如烟",
+        "alt": "https:\/\/www.douban.com\/people\/huangxiaoxie\/",
+        "id": "1614291",
+        "name": "黄小邪"
+      },
+      "summary": "与两友在纽约film forum看黎巴嫩导演Nadine Labaki新片《迦百农》（2018），戛纳评审团奖。一友哭得很惨；我极力克制与分析，也有一段没忍住眼泪（似乎是第一次出现监狱那场，感觉到了、读导演访谈也印证了，那是...",
+      "alt": "https:\/\/movie.douban.com\/review\/9876280\/",
+      "id": "9876280"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "像你这样的孩子存在这世界上，让我稍微对这世界有了些期待。",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "pinkonion",
+        "avatar": "http://img3.doubanio.com\/icon\/u1026712-83.jpg",
+        "signature": "我出新书啦！",
+        "alt": "https:\/\/www.douban.com\/people\/pinkonion\/",
+        "id": "1026712",
+        "name": "水木丁"
+      },
+      "summary": "每年的北京电影节都会盲选一两部不熟悉国家的电影来看，这次是黎巴嫩电影《何以为家》，电影的原名叫《迦百农》，看电影之前，我去查了下资料，主要说这是圣经中的一个地名，是耶稣被迫离开家乡后曾经停留过的一...",
+      "alt": "https:\/\/movie.douban.com\/review\/10153343\/",
+      "id": "10153343"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "title": "父母不过是倒数第二块多米诺骨牌而已",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "yimaxxduck",
+        "avatar": "http://img1.doubanio.com\/icon\/u27405327-59.jpg",
+        "signature": "微信公众号：姨妈的鸭，倘若不见",
+        "alt": "https:\/\/www.douban.com\/people\/yimaxxduck\/",
+        "id": "27405327",
+        "name": "姨妈的鸭"
+      },
+      "summary": "假如你只是为了这一张截图而走进电影院，那你会失望的。 影评称述式的在讲述一个少年犯动手前的一小段人生，但是，这不仅仅是父母的问题，当然我也说不清到底指责了多少问题，因为影片里和现实里的问题真的太多了...",
+      "alt": "https:\/\/movie.douban.com\/review\/10151950\/",
+      "id": "10151950"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 1.0,
+        "min": 0
+      },
+      "title": "本当是黎巴嫩《三毛流浪记》，原来是欧洲的《郭巨埋儿》",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "42726241",
+        "avatar": "http://img9.doubanio.com\/icon\/u42726241-4.jpg",
+        "signature": "",
+        "alt": "https:\/\/www.douban.com\/people\/42726241\/",
+        "id": "42726241",
+        "name": "白头豕"
+      },
+      "summary": "迷信马尔萨斯的白左们又在无耻地给穷人们推销计划生育了。 看这部电影的过程中，我为电影描述出来的许多真实的苦难流了不少的眼泪，也一直在等待真正的主题浮出来。 所有描述苦难的电影，包括纪录片在内，都需要...",
+      "alt": "https:\/\/movie.douban.com\/review\/10157188\/",
+      "id": "10157188"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "《何以为家》的译名很好玩",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "146444852",
+        "avatar": "http://img1.doubanio.com\/icon\/u146444852-18.jpg",
+        "signature": "从不正经读书的官方豆瓣",
+        "alt": "https:\/\/www.douban.com\/people\/146444852\/",
+        "id": "146444852",
+        "name": "果麦文化"
+      },
+      "summary": "谈谈《何以为家》的几个译名吧，很有意思。 第一个，直译的《迦百农》。很多人说这个其实比《何以为家》更贴近电影的灵魂和文化内核，确实没错。 迦百农，英文叫做Capernaum，这其实是圣经新约里的一个地名，也是...",
+      "alt": "https:\/\/movie.douban.com\/review\/10158131\/",
+      "id": "10158131"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "用尽全力的绝望",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "christopherRN",
+        "avatar": "http://img3.doubanio.com\/icon\/u2573880-41.jpg",
+        "signature": "码字ing",
+        "alt": "https:\/\/www.douban.com\/people\/christopherRN\/",
+        "id": "2573880",
+        "name": "KidCoolAF"
+      },
+      "summary": "我一直告诉你，“你儿子还没有出生就已经死了”，他并不存在，即使是番茄酱也有名字，有生产日期和到期日期。 当一个地区连宗教都无法维护秩序时，它就真正地进入了一种最为原始的混乱。黎巴嫩女导演Nadine Nabak...",
+      "alt": "https:\/\/movie.douban.com\/review\/10029049\/",
+      "id": "10029049"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "在了解和撼动那个社会结构的同时，改变生育观念同样重要",
+      "subject_id": "30170448",
+      "author": {
+        "uid": "159662137",
+        "avatar": "http://img3.doubanio.com\/icon\/u159662137-1.jpg",
+        "signature": "你值得不规矩的人生",
+        "alt": "https:\/\/www.douban.com\/people\/159662137\/",
+        "id": "159662137",
+        "name": "野马青年"
+      },
+      "summary": "昨晚看完这部电影，几乎彻夜难眠，在家里哭成狗。 不仅因为扎因这个令人心疼的孩子（他现在是我的男神），更因为有那么多的悲剧，本可以避免。 剧情结尾，扎因的父母在提到离世的女儿时所表现出的悲痛，很多人觉...",
+      "alt": "https:\/\/movie.douban.com\/review\/10033802\/",
+      "id": "10033802"
+    }
+  ],
+  "ratings_count": 667065,
+  "aka": [
+    "迦百农",
+    "星仔打官司(港)",
+    "我想有个家(台)",
+    "Cafarnaúm",
+    "Capernaum",
+    "Capharnaüm"
+  ]
+}
